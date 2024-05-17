@@ -28,4 +28,6 @@ I'm a Full Stack JavaScript Developer based in Germany with a passion for buildi
 
 Feel free to reach out if you want to collaborate on a project, discuss web development, or just chat about tech!
 
+![Metrics](./github-metrics.svg)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/GitItOmar)
